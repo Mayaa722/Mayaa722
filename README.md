@@ -128,12 +128,4 @@ VS Code · JetBrains IDEs · Git CLI · Markdown
 
 ---
 
-## GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayaAnwar&show_icons=true&count_private=true&title_color=7A1F2D&icon_color=7A1F2D&text_color=333333" alt="github-stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayaAnwar&layout=compact&title_color=7A1F2D&text_color=333333" alt="top-langs" width="330"/>
-</p>
-
----
-
-*Last updated: YYYY-MM-DD*
+*Last updated: 2025-11-27*
