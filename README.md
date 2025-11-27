@@ -34,7 +34,7 @@ VS Code · JetBrains IDEs · Git CLI · Markdown
 
 ---
 
-## Selected Projects
+## Selected Projects ( to be updated)
 
 - **Sports Website — Multi-page Responsive UI**  
   Built a sports-themed multi-page website with embedded media, interactive UI, and responsive navigation using semantic HTML and CSS.  
@@ -44,57 +44,55 @@ VS Code · JetBrains IDEs · Git CLI · Markdown
 - **Restaurant Database System — Relational DB Design**  
   Designed a relational database for a restaurant chain with 10+ entities, ERD, normalized tables, and parameterized SQL queries for reports.  
   **Technologies:** MS Access, SQL, ER Modeling  
-  _Repo link:_ (add link)
+
 
 - **Snake Game with GUI — Modular Game Development**  
   Developed a modular Snake game with collision logic, scoring, and GUI controls using event-driven programming.  
   **Technologies:** Python, Pygame  
-  _Repo link:_ (add link)
-
+  
 - **Sound-Controlled IoT System — Embedded Device**  
   Built an Arduino-based system responsive to sound input, demonstrating embedded systems concepts and real-time device control.  
   **Technologies:** Arduino, C++, Sensor Integration  
-  _Repo link:_ (add link)
+  
 
 - **Movie Ticket Booking System — Text-Based App**  
   Created a text-based ticket booking system with seat tracking, movie listings, and cancellation/search functionality.  
   **Technologies:** C, Arrays, Text UI  
-  _Repo link:_ (add link)
-
+ 
 - **University Management System — Console App**  
   Developed a console app for managing students/courses with linked lists, BSTs, hash tables, and dynamic waitlisting.  
   **Technologies:** C++, OOP, Data Structures  
-  _Repo link:_ (add link)
+  
 
 - **Divisibility Checker Circuit — Digital Logic Design**  
   Designed and tested a 4-bit binary circuit to detect numbers divisible by 3 using decoder logic and simulation tools.  
   **Technologies:** Logic Design, 74HC154, Multisim  
-  _Repo link:_ (add link)
+  
 
 - **Maze Generator & Solver — Algorithm Visualization**  
   Built a visual maze generator and solver using DFS, BFS, and A* algorithms with real-time GUI visualization via Pygame.  
   **Technologies:** Python, GUI, DFS/BFS/A*  
-  _Repo link:_ (add link)
+ 
 
 - **Fitness Center Management App — Desktop App**  
   Created a Java desktop application for gym management with CRUD operations, statistics dashboard, CSV export, and themed UI.  
   **Technologies:** Java, Swing, OOP  
-  _Repo link:_ (add link)
+  
 
 - **CPU Optimization — Array Summation**  
   Achieved 13× speedup on array summation using loop unrolling and compiler flags, with CPI/IPC analysis via perf and Valgrind.  
   **Technologies:** C, Linux Tools, Performance Analysis  
-  _Repo link:_ (add link)
+  
 
 - **ALU Verification Testbench — Hardware Simulation**  
   Designed testbenches for 32-bit ALU operations (ADD, SUB, AND, OR) and validated logic using ModelSim simulation tools.  
   **Technologies:** Verilog, ModelSim, Simulation  
-  _Repo link:_ (add link)
+
 
 - **Face Recognition Attendance System — Real-Time GUI**  
   Built a real-time facial recognition attendance system with GUI interface, duplicate prevention, and CSV reporting.  
   **Technologies:** Python, OpenCV, SQLite  
-  _Repo link:_ (add link)
+  
 
 ---
 
