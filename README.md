@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=%237A1F2D&size=28&center=true&vCenter=true&width=700&height=70&lines=AI+%26+Machine+Learning+Student;Software+Engineer;Problem+Solver+%26+Developer" alt="typing"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MayaAnwar&label=Profile+Views&color=7A1F2D&style=plastic" alt="profile views" height="24"/>
-</p>
-
 ---
 
 ## Professional Summary
