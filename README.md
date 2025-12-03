@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Maya Anwar — AI & Software Engineer</h1>
+<h1 align="center"> I'm Maya Anwar </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=%237A1F2D&size=28&center=true&vCenter=true&width=700&height=70&lines=AI+%26+Machine+Learning+Student;Software+Engineer;Problem+Solver+%26+Developer" alt="typing"/>
